@@ -1,0 +1,41 @@
+@font-face {
+  font-family: Itim;
+  src: url(/fonts/Itim-Regular.ttf);
+}
+
+body {
+  font-family: Itim;
+}
+
+#header-nav {
+  background-color: #b1b4ba;
+  border: 2px solid black;
+  border-radius: 0;
+}
+
+.navbar-header .navbar-brand {
+  font-size: 1.5em;
+  color: #26282b;
+}
+
+.container .navbar-collapse .navbar-nav .dropdown {
+  text-align: center;
+  background-color: #f2f4f7;
+  border: 0.1rem solid black;
+}
+
+.navbar-nav {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.text-center {
+  font-size: 2.2rem;
+}
+
+.area {
+  margin: 20px 10px;
+  background-color: #a1a5ab;
+  height: 1000px;
+  font-size: 1.4em;
+}
